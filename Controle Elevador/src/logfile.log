@@ -1,0 +1,212 @@
+[2024-07-21 21:21:32,701] [INFO] - Descendo o elevador...
+[2024-07-21 21:21:32,702] [INFO] - Descendo o elevador...
+[2024-07-21 21:21:32,702] [INFO] - Mock Descendo para o térreo
+[2024-07-21 21:21:32,702] [INFO] - Mock Descendo para o térreo
+[2024-07-21 21:21:32,709] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:32,709] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:32,709] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:32,709] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:33,080] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:33,080] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:33,080] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:33,081] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:33,436] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:33,436] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:33,436] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:33,436] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:33,704] [INFO] - Mock Enviando comando: [1, 35, 193, 1, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:33,704] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:33,704] [INFO] - Encoder: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:33,704] [INFO] - Reconhecendo andares...
+[2024-07-21 21:21:33,705] [INFO] - Mock Enviando comando: [1, 35, 193, 2, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:33,705] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:33,705] [INFO] - Encoder: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:33,705] [INFO] - Reconhecendo andares...
+[2024-07-21 21:21:33,791] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:33,791] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:33,791] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:33,791] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:34,135] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:34,135] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:34,135] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:34,135] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:34,503] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:34,503] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:34,503] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:34,503] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:34,854] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:34,854] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:34,855] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:34,855] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:35,210] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:35,210] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:35,210] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:35,210] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:35,563] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:35,563] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:35,563] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:35,564] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:35,914] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:35,915] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:35,917] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:35,917] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:36,291] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:36,291] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:36,292] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:36,292] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:36,639] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:36,639] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:36,639] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:36,639] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:36,990] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:36,990] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:36,991] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:36,991] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:37,344] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:37,344] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:37,345] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:37,345] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:37,693] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:37,693] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:37,693] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:37,693] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:38,060] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:38,061] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:38,061] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:38,061] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:38,407] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:38,407] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:38,409] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:38,410] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:38,761] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:38,761] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:38,763] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:38,763] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:39,136] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:39,136] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:39,138] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:39,138] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:39,487] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:39,488] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:21:39,488] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:39,488] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:21:39,568] [INFO] - Recebido sinal para finalizar o programa.
+[2024-07-21 21:21:39,568] [INFO] - Mock Parando PWM
+[2024-07-21 21:21:39,568] [INFO] - Mock Parando PWM
+[2024-07-21 21:21:39,568] [INFO] - Programa interrompido pelo usuário.
+[2024-07-21 21:21:39,569] [INFO] - Mock Parando PWM
+[2024-07-21 21:21:39,569] [INFO] - Mock Parando PWM
+[2024-07-21 21:22:24,068] [INFO] - Descendo o elevador...
+[2024-07-21 21:22:24,068] [INFO] - Descendo o elevador...
+[2024-07-21 21:22:24,069] [INFO] - Mock Descendo para o térreo
+[2024-07-21 21:22:24,069] [INFO] - Mock Descendo para o térreo
+[2024-07-21 21:22:24,076] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:22:24,076] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:22:24,076] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:24,076] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:24,429] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:22:24,429] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:22:24,429] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:24,430] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:24,781] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:22:24,782] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:24,782] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:22:24,783] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:25,071] [INFO] - Mock Enviando comando: [1, 35, 193, 1, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:22:25,071] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:25,071] [INFO] - Encoder: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:25,071] [INFO] - Reconhecendo andares...
+[2024-07-21 21:22:25,072] [INFO] - Mock Enviando comando: [1, 35, 193, 2, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:22:25,073] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:25,073] [INFO] - Encoder: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:25,073] [INFO] - Reconhecendo andares...
+[2024-07-21 21:22:25,132] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:22:25,132] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:25,132] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:22:25,132] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:22:25,323] [INFO] - Recebido sinal para finalizar o programa.
+[2024-07-21 21:22:25,324] [INFO] - Mock Parando PWM
+[2024-07-21 21:22:25,324] [INFO] - Mock Parando PWM
+[2024-07-21 21:22:25,324] [INFO] - Programa interrompido pelo usuário.
+[2024-07-21 21:22:25,324] [INFO] - Mock Parando PWM
+[2024-07-21 21:22:25,324] [INFO] - Mock Parando PWM
+[2024-07-21 21:23:31,129] [INFO] - Descendo o elevador...
+[2024-07-21 21:23:31,129] [INFO] - Descendo o elevador...
+[2024-07-21 21:23:31,129] [INFO] - Mock Descendo para o térreo
+[2024-07-21 21:23:31,129] [INFO] - Mock Descendo para o térreo
+[2024-07-21 21:23:31,136] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:23:31,137] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:23:31,137] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:23:31,137] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:23:31,485] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:23:31,486] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:23:31,486] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:23:31,486] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:23:31,541] [INFO] - Recebido sinal para finalizar o programa.
+[2024-07-21 21:23:31,541] [INFO] - Mock Parando PWM
+[2024-07-21 21:23:31,541] [INFO] - Mock Parando PWM
+[2024-07-21 21:23:31,541] [INFO] - Programa interrompido pelo usuário.
+[2024-07-21 21:23:31,541] [INFO] - Mock Parando PWM
+[2024-07-21 21:23:31,541] [INFO] - Mock Parando PWM
+[2024-07-21 21:50:25,147] [INFO] - Descendo o elevador...
+[2024-07-21 21:50:25,147] [INFO] - Descendo o elevador...
+[2024-07-21 21:50:25,148] [INFO] - Mock Descendo para o térreo
+[2024-07-21 21:50:25,148] [INFO] - Mock Descendo para o térreo
+[2024-07-21 21:50:25,155] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:25,155] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:25,155] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:25,155] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:25,498] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:25,498] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:25,501] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:25,501] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:25,846] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:25,846] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:25,846] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:25,846] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:26,151] [INFO] - Mock Enviando comando: [1, 35, 193, 1, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:26,151] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:26,151] [INFO] - Encoder: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:26,151] [INFO] - Reconhecendo andares...
+[2024-07-21 21:50:26,153] [INFO] - Mock Enviando comando: [1, 35, 193, 2, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:26,153] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:26,153] [INFO] - Encoder: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:26,153] [INFO] - Reconhecendo andares...
+[2024-07-21 21:50:26,210] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:26,210] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:26,210] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:26,210] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:26,561] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:26,561] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:26,561] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:26,561] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:26,911] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:26,912] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:26,912] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:26,912] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:27,262] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:27,262] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:27,262] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:27,262] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:27,608] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:27,608] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:27,609] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:27,610] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:27,959] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:27,959] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:27,959] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:27,959] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:28,334] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:28,334] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:28,334] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:28,334] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:28,679] [INFO] - Mock Enviando comando: [1, 22, 209, 2, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:28,679] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:28,680] [INFO] - Mock Enviando comando: [1, 22, 209, 1, 0, 0, 200, 65, 7, 8, 5, 8] com args: ()
+[2024-07-21 21:50:28,680] [INFO] - Mock Recebendo resposta: b'\x01\xe8\x03\x00\x00\xff\xff'
+[2024-07-21 21:50:28,990] [INFO] - Recebido sinal para finalizar o programa.
+[2024-07-21 21:50:28,990] [INFO] - Mock Parando PWM
+[2024-07-21 21:50:28,990] [INFO] - Mock Parando PWM
+[2024-07-21 21:50:28,990] [INFO] - Programa interrompido pelo usuário.
+[2024-07-21 21:50:28,990] [INFO] - Mock Parando PWM
+[2024-07-21 21:50:28,990] [INFO] - Mock Parando PWM
